@@ -7,6 +7,7 @@ Nathan Carlos de Freitas - 3917
 Instruções de execução:
 
 1- Substitua no arquivo 'Projeto 1.ipynb' a string nas variáves 'ds_path' e 'ds_path_test' para os respectivos caminhos para as pastas de treino/validação e teste.
+
 2- Execute todas as células.
 
 Algoritmo feito usando Jupyter Notebook e executado sobre o seguinte ambiente:
